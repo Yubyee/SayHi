@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SayHi/static/css/main.45602c66.chunk.css",
-    "main.js": "/SayHi/static/js/main.756131b8.chunk.js",
-    "main.js.map": "/SayHi/static/js/main.756131b8.chunk.js.map",
+    "main.js": "/SayHi/static/js/main.190e16e1.chunk.js",
+    "main.js.map": "/SayHi/static/js/main.190e16e1.chunk.js.map",
     "runtime-main.js": "/SayHi/static/js/runtime-main.1c642376.js",
     "runtime-main.js.map": "/SayHi/static/js/runtime-main.1c642376.js.map",
-    "static/js/2.e1b27133.chunk.js": "/SayHi/static/js/2.e1b27133.chunk.js",
-    "static/js/2.e1b27133.chunk.js.map": "/SayHi/static/js/2.e1b27133.chunk.js.map",
+    "static/js/2.46154de3.chunk.js": "/SayHi/static/js/2.46154de3.chunk.js",
+    "static/js/2.46154de3.chunk.js.map": "/SayHi/static/js/2.46154de3.chunk.js.map",
     "static/js/3.03db999a.chunk.js": "/SayHi/static/js/3.03db999a.chunk.js",
     "static/js/3.03db999a.chunk.js.map": "/SayHi/static/js/3.03db999a.chunk.js.map",
     "index.html": "/SayHi/index.html",
     "static/css/main.45602c66.chunk.css.map": "/SayHi/static/css/main.45602c66.chunk.css.map",
-    "static/js/2.e1b27133.chunk.js.LICENSE.txt": "/SayHi/static/js/2.e1b27133.chunk.js.LICENSE.txt",
+    "static/js/2.46154de3.chunk.js.LICENSE.txt": "/SayHi/static/js/2.46154de3.chunk.js.LICENSE.txt",
     "static/media/image_01.2d32d353.jpg": "/SayHi/static/media/image_01.2d32d353.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1c642376.js",
-    "static/js/2.e1b27133.chunk.js",
+    "static/js/2.46154de3.chunk.js",
     "static/css/main.45602c66.chunk.css",
-    "static/js/main.756131b8.chunk.js"
+    "static/js/main.190e16e1.chunk.js"
   ]
 }
