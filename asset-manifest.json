@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SayHi/static/css/main.ec5744df.chunk.css",
-    "main.js": "/SayHi/static/js/main.53c170f1.chunk.js",
-    "main.js.map": "/SayHi/static/js/main.53c170f1.chunk.js.map",
+    "main.js": "/SayHi/static/js/main.756131b8.chunk.js",
+    "main.js.map": "/SayHi/static/js/main.756131b8.chunk.js.map",
     "runtime-main.js": "/SayHi/static/js/runtime-main.1c642376.js",
     "runtime-main.js.map": "/SayHi/static/js/runtime-main.1c642376.js.map",
     "static/js/2.e1b27133.chunk.js": "/SayHi/static/js/2.e1b27133.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1c642376.js",
     "static/js/2.e1b27133.chunk.js",
     "static/css/main.ec5744df.chunk.css",
-    "static/js/main.53c170f1.chunk.js"
+    "static/js/main.756131b8.chunk.js"
   ]
 }
